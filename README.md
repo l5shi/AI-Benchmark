@@ -8,7 +8,7 @@ Super Resolution: SRCNN, VDSR, SRGAN, Resnet-12+GAN
 
 Semantic Segmantation: ICNet
 
-![1 image](Model_Structure./Slide2.jpg)
+![1 image](Model_Structure/Slide2.jpg)
 
 
 
