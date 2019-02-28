@@ -8,9 +8,9 @@ Super Resolution: SRCNN, VDSR, SRGAN, Resnet-12+GAN
 
 Semantic Segmantation: ICNet
 
+![1 image](Model_Structure./Slide1.jpg)
 
 
 
 
-
-Reference: http://ai-benchmark.com/tests.html
+Reference: http://ai-benchmark.com
