@@ -1,5 +1,7 @@
 Create models in AI benchmark http://ai-benchmark.com/tests.html
 
+The benchmark consists of 9 Computer Vision AI tasks performed by 9 separate Neural Networks that are running on your smartphone.
+
 Object Detection: Mobile-v2, Inception-v3
 
 Face Recognition: Inception-Resnet-v1
@@ -7,6 +9,13 @@ Face Recognition: Inception-Resnet-v1
 Super Resolution: SRCNN, VDSR, SRGAN, Resnet-12+GAN
 
 Semantic Segmantation: ICNet
+
+
+
+Samrt Phone Performance on 9 Tasks
+
+
+![0 image](Model_Structure/Slide11.jpg)
 
 ![1 image](Model_Structure/Slide2.jpg)
 
