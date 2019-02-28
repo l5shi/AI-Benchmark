@@ -11,10 +11,6 @@ Super Resolution: SRCNN, VDSR, SRGAN, Resnet-12+GAN
 Semantic Segmantation: ICNet
 
 
-
-Samrt Phone Performance on 9 Tasks
-
-
 ![0 image](Model_Structure/Slide11.jpg)
 
 ![1 image](Model_Structure/Slide2.jpg)
