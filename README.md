@@ -7,3 +7,7 @@ Face Recognition: Inception-Resnet-v1
 Super Resolution: SRCNN, VDSR, SRGAN, Resnet-12+GAN
 
 Semantic Segmantation: ICNet
+
+
+
+Reference: http://ai-benchmark.com/tests.html
