@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/language-python-keras-orange.svg)
+
 Create models in AI benchmark http://ai-benchmark.com/tests.html
 
 The benchmark consists of 11 Computer Vision AI tasks performed by 10 separate Neural Networks that are running on your android smartphone.
