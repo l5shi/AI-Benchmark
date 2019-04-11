@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/language-python-orange.svg)
+![](https://img.shields.io/badge/language-python keras-orange.svg)
 
 Create models in AI benchmark http://ai-benchmark.com/tests.html
 
