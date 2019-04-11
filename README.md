@@ -1,6 +1,6 @@
 Create models in AI benchmark http://ai-benchmark.com/tests.html
 
-The benchmark consists of 9 Computer Vision AI tasks performed by 9 separate Neural Networks that are running on your smartphone.
+The benchmark consists of 11 Computer Vision AI tasks performed by 10 separate Neural Networks that are running on your android smartphone.
 
 Object Detection: Mobile-v2, Inception-v3
 
