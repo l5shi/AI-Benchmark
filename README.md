@@ -1,6 +1,4 @@
 ![](https://img.shields.io/badge/language-python_keras-orange.svg)
-[![](https://img.shields.io/badge/联系-click_for_contact-green.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
-[![](https://img.shields.io/badge/Donate-支付宝|微信|Venmo-blue.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
 
 Create models in AI benchmark http://ai-benchmark.com/tests.html
 
@@ -58,5 +56,12 @@ ICNet: Running Self-Driving algorithm on your phone? Yes, that's possible too, a
 
 
 Resnet-12 + GAN: Still struggling when looking at photos from your old phone? This can be fixed: a properly trained neural network can make photos even from an ancient iPhone 3GS looking nice and up-to-date. To do this, it observes and learns how to transform photos from a low-quality device into the same photos from a DSLR camera. Of course there are some obvious limits for this magic (e.g. the network should be retrained for each new phone model), but the resulting images are looking quite good, especially for old devices.
+
+
+
+
+
+[![](https://img.shields.io/badge/常联系-click_for_contact-green.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
+[![](https://img.shields.io/badge/Donate-支付宝|微信|Venmo-blue.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
 
 Reference: http://ai-benchmark.com
