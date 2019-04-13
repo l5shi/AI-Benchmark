@@ -1,6 +1,5 @@
 ![](https://img.shields.io/badge/language-python_keras-orange.svg)
 [![](https://img.shields.io/badge/常联系-click_for_contact-green.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
-[![](https://img.shields.io/badge/Donate-支付宝|微信|Venmo-blue.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
 [![](http://img.shields.io/badge/Reference-Page-yellow.svg)](http://ai-benchmark.com)
 
 Create models in AI benchmark http://ai-benchmark.com/tests.html
@@ -64,5 +63,5 @@ Resnet-12 + GAN: Still struggling when looking at photos from your old phone? Th
 
 
 
-
+[![](https://img.shields.io/badge/Donate-支付宝|微信|Venmo-blue.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
 
