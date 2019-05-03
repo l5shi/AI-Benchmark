@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/language-python_keras-orange.svg)
+![](https://img.shields.io/badge/Benchmark-v2.2.0-blue.svg)
 [![](https://img.shields.io/badge/常联系-click_for_contact-green.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
 [![](http://img.shields.io/badge/Reference-Page-yellow.svg)](http://ai-benchmark.com)
  
